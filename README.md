@@ -1,5 +1,8 @@
 # ProFit-Android
-[HACK-A-THON PROJECT] A PROfessional FITness companion app
+[HACK-A-THON PROJECT] A PROfessional FITness companion app made at the SportsHack2016 Hack-a-thon held by Zone Startups, India in association with Australia Institute of Sports
+
+#Achievement
+__This project won the first prize!__
 
 #About Hack-a-thon code:
 
